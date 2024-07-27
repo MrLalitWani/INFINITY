@@ -1,2 +1,2 @@
 # INFINITY
-These project i made while in college.
+These project i made while in diploma.
